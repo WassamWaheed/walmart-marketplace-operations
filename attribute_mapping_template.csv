@@ -1,0 +1,6 @@
+source_field,walmart_field,required,example,status
+sku,SKU,Yes,DEMO-001,Mapped
+product_name,Product Name,Yes,Insulated Water Bottle,Mapped
+brand,Brand,Category dependent,Demo Brand,Review
+color,Color,Category dependent,Black,Mapped
+size,Size,Category dependent,24 oz,Review
