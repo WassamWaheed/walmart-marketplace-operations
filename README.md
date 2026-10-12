@@ -2,6 +2,10 @@
 
 A practical framework for **Walmart Marketplace item setup, catalog management, attribute mapping, variants, listing quality, and troubleshooting**.
 
+## Included Files
+- [Attribute Mapping Template](attribute_mapping_template.csv)
+- [Listing Quality Audit](listing_quality_audit.md)
+
 ## Workflow
 1. Collect and normalize source product data.
 2. Select the correct product type/category.
